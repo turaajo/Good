@@ -1,2 +1,2 @@
-# Good
+# Temperature converter
 Temperature converter
